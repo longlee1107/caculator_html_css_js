@@ -1,0 +1,42 @@
+body {
+    background: rgb(149, 213, 245);
+}
+
+body h1 {
+    color: rgb(120, 241, 201);
+    text-align: center;
+}
+
+.container {
+    background: #ccc;
+    margin: 0 auto;
+    width: 400px;
+}
+
+#result {
+    padding: 40px;
+    text-align: right;
+    font-size: larger;
+}
+
+.btn {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background: rgb(128, 248, 144);
+}
+
+.btn-outline-danger {
+    color: black;
+    border-color: black;
+}
+
+.operator {
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    border: 0;
+    display: block;
+}
